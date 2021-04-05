@@ -8,6 +8,7 @@
 </h3>
 
 ### Features
-This extension adds button to Firefox browser \
-when clikcing it will load new tab with page from clipboard.
+This extension adds button to Firefox browser when clikcing it will load new tab with page from clipboard.
 
+
+# HAPPY CODING !!! :)

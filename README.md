@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" width="300px"></p>
+<p align="center"><img src="icon.png" width="200px"></p>
 
 <h1 align="center">
     <strong>Firefox-Just-Go</strong>

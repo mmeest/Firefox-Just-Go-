@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Just Go!",
+    "version": "2.0",
+
+    "description": "Just paste and GO GO GO!!!",
+
+    "background": {
+        "scripts": ["background.js"]
+    },
+
+    "permissions": [
+        "tabs",
+        "clipboardRead",
+        "webNavigation",
+        "storage"
+    ],
+
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_title": "Just Go!"
+    }
+}
